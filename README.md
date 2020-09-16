@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mobile-tabs
 
 ## Project setup
@@ -22,3 +23,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# mobile-tabs
+>>>>>>> f862c752cef6a327c908e40473c6f9e6188197a2
