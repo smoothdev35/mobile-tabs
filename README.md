@@ -1,8 +1,8 @@
 # mobile-tabs
 
-  -Stand-alone: https://vue-mobile-tabs.netlify.app/
+  - Stand-alone: https://vue-mobile-tabs.netlify.app/
   
-  -Codepen: https://codepen.io/smoothdev35/pen/yLYEabN
+  - Codepen: https://codepen.io/smoothdev35/pen/yLYEabN
   
   
   
